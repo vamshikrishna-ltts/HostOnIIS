@@ -1,2 +1,2 @@
 # HostOnIIS
-The DeployOnIIs.png image file shows the successful hosting of app
+The IIsDeploy.png image file shows the successful hosting of app
